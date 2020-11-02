@@ -37,7 +37,7 @@ nav {
     top: 50px; /* * */
     width: 100%;
     height: 84px;
-    background-color: rgba(0,0,0, .6);
+    background-color: rgba(0, 0, 0, 0.6);
 }
 
 .subheader .subheader_logo {
@@ -102,7 +102,7 @@ nav {
     margin: 0;
     text-align: center;
 }
-.promo .promo_subheader  {
+.promo .promo_subheader {
     color: #ffffff;
     font-weight: 700;
     text-transform: uppercase;
@@ -152,6 +152,7 @@ nav {
     font-size: 11px;
     font-weight: 300;
     text-transform: uppercase;
+    text-align: center;
 }
 
 .title {
@@ -186,7 +187,7 @@ nav {
     width: 343px;
 }
 
-.reasons .reasons_block .reasons_descr .reasons_subtitle{
+.reasons .reasons_block .reasons_descr .reasons_subtitle {
     line-height: 21px;
     color: #1eacc7;
     font-size: 17px;
