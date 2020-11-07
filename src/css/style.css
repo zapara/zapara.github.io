@@ -82,6 +82,10 @@ nav {
   font-weight: 400;
   text-transform: uppercase;
 }
+.subheader_btn:hover {
+  background-image: none;
+  background-color: #1eacc7;
+}
 
 .promo {
   min-height: 800px;
@@ -129,6 +133,10 @@ nav {
   font-size: 18px;
   font-weight: 400;
   text-transform: uppercase;
+}
+.promo_btn:hover {
+  background-image: none;
+  background-color: #1eacc7;
 }
 
 .reasons {
